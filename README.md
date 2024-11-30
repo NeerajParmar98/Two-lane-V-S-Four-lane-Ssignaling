@@ -1,1 +1,1 @@
-# Two-lane-V-S-Four-lane-Ssignaling
+# Two-phase-V-S-Four-phase-Signaling
